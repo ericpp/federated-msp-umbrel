@@ -1,0 +1,27 @@
+manifestVersion: 1.1
+id: federated-msp-umbrel-app
+category: media
+name: Music Side Project
+icon: https://raw.githubusercontent.com/ericpp/federated-msp-umbrel/master/msp-icon.svg
+version: "1.0.0"
+tagline: Music side project
+description: >-
+  Music Side Project
+releaseNotes: >-
+  - Initial version
+developer: Steven Bell
+dependencies: []
+website: https://musicsideproject.com
+repo: https://github.com/thebells1111/federated-msp
+support: https://podcastindex.social/@StevenB
+port: 3033
+gallery:
+  - https://raw.githubusercontent.com/ericpp/federated-msp-umbrel/master/msp-1.jpg
+  - https://raw.githubusercontent.com/ericpp/federated-msp-umbrel/master/msp-2.jpg
+path: ""
+defaultUsername: admin
+defaultPassword: ""
+deterministicPassword: true
+torOnly: false
+submitter: Ericpp
+submission: https://github.com/getumbrel/umbrel/pull/XXXX
